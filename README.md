@@ -1,4 +1,4 @@
-# AVATAR HUB — خطوات النشر (حوالي 10 دقائق، مجاني)
+ببببببب# AVATAR HUB — خطوات النشر (حوالي 10 دقائق، مجاني)
 1. أنشئ حسابًا في github.com ثم New repository باسم avatar-hub (Public).
 2. Add file ← Upload files، اسحب كل محتويات هذا المجلد (بما فيه .github و scripts و data) ثم Commit.
 3. Settings ← Pages ← Branch: main و Folder: / (root) ← Save. رابط موقعك سيظهر هناك.
